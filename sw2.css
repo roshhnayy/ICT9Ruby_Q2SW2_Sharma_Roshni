@@ -1,0 +1,24 @@
+body {
+	background-color: moccasin;
+}
+
+table {margin-left: auto; margine-right: auto; border-color: darkred;}
+
+body { background-color: #f5f2c1; } 
+
+h1 { color:darkolivegreen; text-align: center; font-size: 30px; font-weight: lighter; }
+
+table, th, td{ margin-left: auto; margin-right: auto; border: 2px solid #b37592; padding: 10px;}
+
+.button
+{
+    font-size: 13px;
+    color:#4c8238;
+}
+
+table { width: 80%; }
+
+#Sources {
+	font-weight: bold;
+}
+
